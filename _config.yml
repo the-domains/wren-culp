@@ -1,7 +1,7 @@
 name: Wren Culp
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.39277
+layout_spectrum: 1
+typography_spectrum: 0.83017
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3d5a9a'
-    - '#110607'
-    - '#cccccc'
-    - '#e48e3c'
-    - '#663f40'
+    - '#000000'
+    - '#003fab'
+    - '#c7d4f9'
+    - '#be969b'
+    - '#008af9'
   brandStrength: 0.25
   lightness: 0.5
-  saturation: 0.6875
-  rhythmicContrast: 0.25
+  saturation: 0.5625
+  rhythmicContrast: 0.5
 purpose: []
