@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-11T04:09:07.605Z'
-dateModified: '2016-02-11T04:09:03.883Z'
+datePublished: '2016-02-16T16:17:37.851Z'
+dateModified: '2016-02-16T16:17:34.976Z'
 title: About Wren
 author: []
 sourcePath: _posts/2016-02-03-wren-culp-bio.md
